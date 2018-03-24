@@ -13,6 +13,8 @@ On pourra alors évoluer vers une pratique plutôt de type pleine conscience.
 
 A condition de disposer d'une carte SD, l'utilisateur peut choisir entre plusieurs boucles sonores différentes, ou sélectionner un fichier son (mp3, ogg...).
 
+https://play.google.com/store/apps/details?id=palpac.coherence_cardiaque
+
 Crédits : Ciara Cable (heart icon)
 Palpac_Prod_2018
 
