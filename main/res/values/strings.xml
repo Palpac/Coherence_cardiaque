@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cohérence cardiaque</string>
+    <string name="cc1">Inspirez pendant 5 secondes</string>
+    <string name="cc2">Expirez pendant 5 secondes</string>
+    <string name="cc3">Pratiquez pendant 5 minutes</string>
+    <string name="cc4">Relaxation garantie</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="autostart">Auto start audio</string>
+    <string name="theme">Dark theme</string>
+    <string name="credits">\nLa pratique de la <b>Cohérence cardiaque</b> régule le rythme cardiaque.\n\nIl est conseillé de pratiquer assis, dos droit et pieds à plats. On pourra volontier évoluer vers la méditation.\n\nCette application, basée sur une boucle sonore, permet également une pratique plus libre (mains et regards libérés) lors des activités quotidiennes.\nOn pourra alors évoluer vers une pratique plutôt de type pleine conscience.\n\n<i>Palpac_Prod_2018</i>\nCrédits : Ciara Cable (heart icon)</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="clear">Reset</string>
+    <string name="title_clear">Reset sound file ?</string>
+    <string name="message_clear">Set original sound.</string>
+    <string name="file_choose">Choose sound file</string>
+    <string name="file_choose_disable">Choose sound (SDcard needed)</string>
+    <string name="sound_error">Error custom sound, reseted</string>
+    <string name="file_copy_error">File copy exception</string>
+    <string name="notif_ticker">Cohérence cardiaque Play/Stop</string>
+    <string name="notif_title">Cohérence cardiaque</string>
+    <string name="notif_text">Play / Stop</string>
+    <string name="alert_title">Quitter ?</string>
+    <string name="alert_message">Attention, la boucle sonore sera arrêtée.</string>
+    <string name="alert_postive">Rester</string>
+    <string name="alert_negative">Quitter</string>
+</resources>
