@@ -1,6 +1,5 @@
 # Coherence_cardiaque
-![screenshot](https://github.com/Palpac/Coherence_cardiaque/blob/master/Main.png)
-![screenshot](https://github.com/Palpac/Coherence_cardiaque/blob/master/Settings.png)
+
 
 Respirez au rythme d'une boucle sonore.
 La pratique de la cohérence cardiaque régule le rythme cardiaque. 
