@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cohérence cardiaque</string>
+    <string name="cc1">Inspirez pendant 5 secondes</string>
+    <string name="cc2">Expirez pendant 5 secondes</string>
+    <string name="cc3">Pratiquez pendant 5 minutes</string>
+    <string name="cc4">Relaxation garantie</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="autostart">Démarrage automatique audio</string>
+    <string name="volume">Sauvegarde volume</string>
+    <string name="theme">Dark theme</string>
+    <string name="credits">\nLa pratique de la <b>cohérence cardiaque</b> régule le rythme cardiaque, apporte calme et sérénité à votre journée.\n\nIl est conseillé de pratiquer assis, dos droit et pieds à plats. On pourra volontier évoluer vers la méditation.\n\nCette application, basée sur une boucle sonore, permet également une pratique plus libre (mains et regard libérés) lors des activités quotidiennes.\nOn pourra alors évoluer vers une pratique plutôt de type pleine conscience.\n\n<i>Palpac_Prod_2018</i>\nCrédits : Ciara Cable (heart icon)</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Sauvegarder</string>
+    <string name="clear">Raz</string>
+    <string name="title_clear">Réinitialisation ?</string>
+    <string name="message_clear">Rétablir le son par défaut.</string>
+    <string name="file_choose">Sélectionner fichier son</string>
+    <string name="file_choose_disable">Choose sound (SDcard needed)</string>
+    <string name="sound_error">Error custom sound, reseted</string>
+    <string name="file_copy_error">File copy exception</string>
+    <string name="notif_ticker">Cohérence cardiaque Play/Stop</string>
+    <string name="notif_title">Cohérence cardiaque</string>
+    <string name="notif_text">Play / Pause</string>
+    <string name="alert_title">Quitter ?</string>
+    <string name="alert_message">Attention, la boucle sonore sera arrêtée.</string>
+    <string name="alert_postive">Rester</string>
+    <string name="alert_negative">Quitter</string>
+    <string name="timer_title">Définir la durée</string>
+    <string name="textv_choose1">Choisir un son prédéfini :</string>
+    <string name="textv_choose2">Ou choisir un son du téléphone :</string>
+    <string name="textv_choose3">Son choisi :</string>
+    <string name="rate">Evaluer app</string>
+    <string name="donate">Faire un don</string>
+    <string name="PLAYBACK_CHANNEL_NAME">Coherence Cardiaque Channel</string>
+</resources>
